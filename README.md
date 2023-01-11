@@ -1,2 +1,2 @@
 # Algortithms
-Code, implementation and excersises of Analysis of Alogrithms. 
+Code, implementation and excersises from Analysis of Alogrithms. 
